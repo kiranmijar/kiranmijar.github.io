@@ -1,0 +1,28 @@
+
+.profilepic{
+	max-width: 100%;
+}
+
+.card-text{
+	font-style: italic;
+}
+
+.align-left{
+	text-align: left
+}
+
+.myprogress::-webkit-progress-value{
+	background-color: hotpink !important;
+}
+
+.navbar{
+	background-color: darkgreen !important;
+}
+
+.nav-link{
+	color:white !important;
+}
+
+.fa{
+	color: black;
+}
